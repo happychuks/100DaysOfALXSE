@@ -40,7 +40,7 @@ I'm ready to tackle challenges, commit to success, and code with passion! This c
 ## Follow Along
 Follow my coding journey on:
 - [Twitter](https://twitter.com/Chukwuma__Happy)
-- [LinkedIn](www.linkedin.com/in/happyfelixchukwuma/)
+- [LinkedIn](https://www.linkedin.com/in/happyfelixchukwuma)
 - [GitHub](https://github.com/happychuks)
 
 Join me in this adventure of growth, challenges, and triumphs. Together, let's hack our way into greatness!
